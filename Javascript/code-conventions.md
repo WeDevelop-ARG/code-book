@@ -10,7 +10,6 @@
   1. [Where to put blank lines](#Where-to-put-blank-lines)
   1. [Coding](#Coding)
 
-
 ## Asynchronous code
 
   - Use `async/await` with `try/catch` instead of `Promise.then().catch()`
