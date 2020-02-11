@@ -2,4 +2,4 @@
 
 ## Table of contents
 
-### 1. [Code-Conventions](./code-conventions.md)
+### 1. [Code conventions](./code-conventions.md)
