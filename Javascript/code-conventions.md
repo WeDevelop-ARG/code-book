@@ -18,6 +18,8 @@
 
   Use `import` instead of `require` when possible.
 
+  **Import order:**
+
   1. Initialization, dotenv ES6, and so on.
   1. npm packages and libraries
   1. root imports
