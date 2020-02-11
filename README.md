@@ -12,8 +12,7 @@ Guides for getting things done, programming well, and programming in style.
 * [StandardJS](./standard-jS)
 * [React](./react)
 * [Style](./style)
-* [Javascript](./javascript)
+* [Javascript](./Javascript/index.md)
 
 * [Web Performance](./web-performance)
 * [Working Together](./working-together)
-
