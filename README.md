@@ -10,7 +10,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Security](./security)
 
 * [StandardJS](./standard-jS)
-* [React](./react)
+* [React](./React/index.md)
 * [Style](./style)
 * [Javascript](./Javascript/index.md)
 
